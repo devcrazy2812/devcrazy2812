@@ -120,7 +120,7 @@ animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribut
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abhay-goyal-36b659324/">`{=html}
+<a href="https://www.linkedin.com/in/abhay-goyal-36b659324/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/devcrazy2812">
