@@ -7,17 +7,17 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=devcrazy2812&label=Profile%20Views&color=blue&style=plastic" />
 </p>
-<img align="right" src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="350"/>`{=html}
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
--   👨‍🎓 Student at **SRM University Chennai**\
--   🚀 Interested in **AI, ML & Full Stack Development**\
--   🌱 Currently learning **Advanced AI + Scalable Systems**\
--   🤝 Open to collaborate on **AI Projects & Web Apps**\
--   📫 Reach me through **Links Below**\
+-   👨‍🎓 Student at **SRM University Chennai**
+-   🚀 Interested in **AI, ML & Full Stack Development**
+-   🌱 Currently learning **Advanced AI + Scalable Systems**
+-   🤝 Open to collaborate on **AI Projects & Web Apps**
+-   📫 Reach me through **Links Below**
 -   ⚡ Fun fact: **Debugging feels like solving a mystery 🕵️‍♂️**
 
 ------------------------------------------------------------------------
