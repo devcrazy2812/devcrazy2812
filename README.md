@@ -10,7 +10,7 @@
 
 <img align="right" 
      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW55M3hhdjdpaWdtYjZldnVnZTlmandsN3h5b2s2NmN6Y2lrN2Z0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HAj6BKhBbx4mxYCFBZ/giphy.gif" 
-     style="width:350px; height:200px; object-fit:cover; border-radius:12px;" />
+     style="width:350px; height:200px; object-fit:cover; border-radius:12px; margin-top:60px;" />
 
 ------------------------------------------------------------------------
 
