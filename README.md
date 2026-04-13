@@ -7,7 +7,10 @@
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=devcrazy2812&label=Profile%20Views&color=blue&style=plastic" />
 </p>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+
+
+<img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="350"/>
 
 ------------------------------------------------------------------------
 
