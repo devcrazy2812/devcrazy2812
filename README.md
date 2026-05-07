@@ -28,9 +28,7 @@ style="width:350px; height:300px; object-fit:cover; border-radius:18px; margin-t
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ------------------------------------------------------------------------
 
