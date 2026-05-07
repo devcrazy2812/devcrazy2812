@@ -1,148 +1,253 @@
-<!-- Animated Typing Banner -->
+<!-- ========================================= -->
+<!--          PREMIUM GITHUB PROFILE           -->
+<!-- ========================================= -->
+
+<!-- HERO SECTION -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+DevCrazy;AI+Enthusiast;Full-Stack+Developer+💻;Open+Source+Contributor+🌍;Tech+Explorer+🚀;SRM+Student+🫡" />
-
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F2027,50:203A43,100:2C5364&text=Abhay%20Goyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=58"
+  />
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=devcrazy2812&label=Profile%20Views&color=blue&style=plastic" />
+<!-- TYPING ANIMATION -->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI+Powered+Applications;Passionate+about+Full+Stack+Development;Exploring+Cloud+%26+Scalable+Systems;Learning+Something+New+Everyday;Turning+Ideas+into+Real+World+Projects"
+  />
 </p>
 
-<img align="right" 
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAwMTI1aWRpc3dwMHU0ODUwZHdsczg5NGNoNnJqbGVyb2hreXd5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif" 
-     style="width:350px; height:300px; object-fit:cover; border-radius:18px; margin-top:60px;" />
+<!-- CUTE GIF -->
 
-------------------------------------------------------------------------
+<p align="center">
+  <img 
+    src="https://media.tenor.com/8QfZt6u8sPAAAAAC/cat-box.gif" 
+    width="280"
+    style="border-radius:20px;"
+  />
+</p>
 
-## 👨‍💻 About Me
+<!-- PROFILE VIEWS -->
 
--   👨‍🎓 Student at **SRM University Chennai**
--   🚀 Interested in **AI, ML & Full Stack Development**
--   🌱 Currently learning **Advanced AI + Scalable Systems**
--   🤝 Open to collaborate on **AI Projects & Web Apps**
--   📫 Reach me through **Links Below**
--   ⚡ Fun fact: **Debugging feels like solving a mystery 🕵️‍♂️**
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=devcrazy2812&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  />
+</p>
 
-------------------------------------------------------------------------
+---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-------------------------------------------------------------------------
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-------------------------------------------------------------------------
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-------------------------------------------------------------------------
-
-### 🤖 AI & Machine Learning
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF5733?style=for-the-badge&logo=appveyor&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6F42C1?style=for-the-badge&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-7928CA?style=for-the-badge&logoColor=white)
-
-------------------------------------------------------------------------
-
-### ⚡ Frameworks & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Ngrok](https://img.shields.io/badge/Ngrok-29B4E4?style=for-the-badge&logo=ngrok&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00AEEF?style=for-the-badge&logo=render&logoColor=white)
-
-------------------------------------------------------------------------
-
-### 🛠️ Tools & Libraries  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![AutoHotkey](https://img.shields.io/badge/AutoHotkey-0C7B93?style=for-the-badge&logo=autohotkey&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-------------------------------------------------------------------------
-
-### 💻 Operating Systems
-
-![Windows11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-------------------------------------------------------------------------
-
-## 📊 GitHub Stats
-
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcrazy2812&theme=radical&hide_border=true" height="170"/>
-</p>
-
-------------------------------------------------------------------------
-
-## 🎉 Fun Corner
-
-💬 *"Code. Break. Debug. Repeat. That's the lifecycle 🔁"* 😆
-
-------------------------------------------------------------------------
-
-## 🌐 Connect With Me
-
-
-<p align="center">
 <a href="https://www.linkedin.com/in/abhay-goyal-36b659324/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 
 <a href="https://github.com/devcrazy2812">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
 <a href="https://leetcode.com/u/abhaygoyal01/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img 
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+  />
 </a>
 
 <a href="mailto:devcrazy2812@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
+
 </p>
 
-📧 **Email:** [devcrazy2812@gmail.com](mailto:devcrazy2812@gmail.com) 
+---
 
-------------------------------------------------------------------------
+# 👨‍💻 About Me
+
+Hi 👋, I'm **Abhay Goyal**, a passionate and curious developer currently pursuing my B.Tech at **SRM Institute of Science and Technology**.  
+
+I enjoy building modern applications, exploring AI-powered systems, and continuously improving my development skills through projects and problem solving.
+
+My primary interests revolve around:
+
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Full Stack Web Development  
+- ☁️ Cloud Computing & Scalable Systems  
+- 🧠 Problem Solving & DSA  
+- 🚀 Real-world impactful technology solutions  
+
+I love experimenting with new technologies and turning ideas into practical projects that solve meaningful problems.
+
+---
+
+# 🏆 Achievements & Journey
+
+- ☁️ Participated in the **C-DAC × NASSCOM Cloud Computing Bootcamp**
+- 🚀 Built multiple AI & Full Stack based projects
+- 🧠 Active Problem Solver on LeetCode
+- 💻 Exploring scalable architectures and backend systems
+- 🌱 Continuously learning modern technologies and frameworks
+- 🎯 Focused on becoming a highly skilled Software Engineer
+
+---
+
+# 🎯 Current Focus
+
+Currently, I am focusing on:
+
+- 🤖 Building AI-powered applications using LLMs & RAG
+- 🌐 Developing Full Stack Web Applications
+- ☁️ Learning AWS & Cloud Infrastructure
+- ⚡ Improving Backend & System Design concepts
+- 🧠 Solving Data Structures & Algorithms problems regularly
+
+---
+
+# ⚒️ Currently Building
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Assistant | AI-powered assistant using Ollama + RAG |
+| 🌐 Full Stack Applications | Scalable MERN stack projects |
+| ☁️ Cloud-Based Systems | Exploring deployment & cloud workflows |
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|-------------|
+| [🛣️ SRMIST SmartRoute Optimization](https://github.com/devcrazy2812/SRMIST-SmartRoute-Optimization) | Smart route optimization system focused on efficient navigation and pathfinding solutions | Python, Algorithms |
+| [🏥 AI Health Care Chatbot](https://github.com/devcrazy2812/AI-Health-Care-Chatbot) | AI-powered healthcare chatbot designed to assist users with basic medical guidance and support | Python, AI, NLP |
+| [🧩 AI Maze Solver](https://github.com/devcrazy2812/AI-MAZE-SOLVER-USING-DIFFRENT-ALGORITHIMS) | Intelligent maze solving visualizer using different search and pathfinding algorithms | Python, AI, Algorithms |
+| [🛡️ AI-Driven Fraud Prevention System](https://github.com/devcrazy2812/AI-DRIVEN-FRAUD-PREVENTION-SYSTEM-AI-DFPS-) | AI-based fraud detection and prevention system for identifying suspicious activities and anomalies | Python, Machine Learning |
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+### ⚡ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,mongodb,mysql,git,github,linux,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=devcrazy2812&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img 
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=devcrazy2812&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcrazy2812&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img 
+src="https://leetcard.jacoblin.cool/abhaygoyal01?theme=dark&font=Baloo&ext=heatmap"
+/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=devcrazy2812&theme=react-dark&hide_border=true"
+/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake-dark.svg" />
+      
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake.svg" />
+      
+    <img 
+      alt="github contribution grid snake animation" 
+      src="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake.svg" 
+    />
+  </picture>
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💬 *"Code. Learn. Build. Improve. Repeat 🚀"*  
+
+I believe consistency and curiosity are the two biggest superpowers in tech.
+
+---
+
+<!-- FOOTER -->
+
+<p align="center">
+<img 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"
+/>
 </p>
