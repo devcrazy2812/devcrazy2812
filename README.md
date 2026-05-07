@@ -125,10 +125,18 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAwMTI1aWRpc3dwMHU0ODUwZ
 <a href="https://www.linkedin.com/in/abhay-goyal-36b659324/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/devcrazy2812">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="mailto:devcrazy2812@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</a>
+
+<a href="https://leetcode.com/u/abhaygoyal01/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:devcrazy2812@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 📧 **Email:** [devcrazy2812@gmail.com](mailto:devcrazy2812@gmail.com) 
