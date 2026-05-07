@@ -1,6 +1,8 @@
 <!-- ========================================= -->
-<!-- HERO SECTION -->
+<!--          PREMIUM GITHUB PROFILE           -->
 <!-- ========================================= -->
+
+<!-- HERO SECTION -->
 
 <p align="center">
   <img 
@@ -8,9 +10,7 @@
   />
 </p>
 
-<!-- ========================================= -->
 <!-- TYPING ANIMATION -->
-<!-- ========================================= -->
 
 <p align="center">
   <img 
@@ -18,17 +18,16 @@
   />
 </p>
 
-<!-- ========================================= -->
-<!-- RIGHT SIDE CODING GIF -->
-<!-- ========================================= -->
+<!-- RIGHT SIDE GIF -->
 
-<img align="right" 
-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAwMTI1aWRpc3dwMHU0ODUwZHdsczg5NGNoNnJqbGVyb2hreXd5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifBColYSQBYy99Dldd/giphy.gif" 
-style="width:330px; height:280px; object-fit:cover; border-radius:18px; margin-top:30px;" />
+<img 
+align="right"
+src="https://media.tenor.com/8QfZt6u8sPAAAAAC/cat-box.gif"
+width="280"
+style="border-radius:20px; margin-top:20px;"
+/>
 
-<!-- ========================================= -->
 <!-- PROFILE VIEWS -->
-<!-- ========================================= -->
 
 <p align="left">
   <img 
@@ -36,9 +35,7 @@ style="width:330px; height:280px; object-fit:cover; border-radius:18px; margin-t
   />
 </p>
 
-<!-- ========================================= -->
-<!-- ABOUT ME -->
-<!-- ========================================= -->
+---
 
 # 👨‍💻 About Me
 
@@ -67,6 +64,8 @@ I enjoy building modern applications, experimenting with AI-powered systems, and
 - Open Source Collaboration
 - Full Stack Development Projects
 - Learning & Networking Opportunities
+
+<br clear="right"/>
 
 ---
 
@@ -102,6 +101,16 @@ I enjoy building modern applications, experimenting with AI-powered systems, and
 - 💻 Exploring scalable architectures and backend systems
 - 🌱 Continuously learning modern technologies and frameworks
 - 🎯 Focused on becoming a highly skilled Software Engineer
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Building AI-powered applications using LLMs & RAG
+- 🌐 Developing Full Stack Web Applications
+- ☁️ Learning AWS & Cloud Infrastructure
+- ⚡ Improving Backend & System Design concepts
+- 🧠 Solving Data Structures & Algorithms regularly
 
 ---
 
@@ -163,10 +172,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=devcrazy2812&theme=t
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcrazy2812&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcrazy2812&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=450"
+  />
 </p>
 
 ---
@@ -194,18 +202,10 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=devcrazy2812
 # 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake-dark.svg" />
-      
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake.svg" />
-      
-    <img 
-      alt="github contribution grid snake animation" 
-      src="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake.svg" 
-    />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/devcrazy2812/devcrazy2812/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+  />
 </p>
 
 ---
@@ -222,7 +222,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=devcrazy2812
 
 # ⚡ Fun Fact
 
-💬 *"Code. Learn. Build. Improve. Repeat 🚀"*  
+💬 *"Code. Learn. Build. Improve. Repeat 🚀"*
 
 I believe consistency and curiosity are the two biggest superpowers in tech.
 
